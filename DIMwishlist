@@ -1,29 +1,23 @@
 title: Liz's wishlist
 description: A collection of PvE focussed rolls assembled by Lizrrdbreath. These rolls tend to prioritize perks that are usefull in GM content and raid encounters. Some rolls are added based on godrolls posted by respected community members, I will endeavour to note when this is the case. 
 
-//lizrrdbreath (PvE)
+//lizrrdbreath
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130 //Falling Guillotine
 
-//Swords
-//Falling Guillotine
-dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130 
+dimwishlist:item=958384347&perks=3796465595,3300816228,3927722942 //Tomorrow's Answer
 
-//Rocket Launchers
-//Tomorrow's Answer
-dimwishlist:item=958384347&perks=3796465595,3300816228,3927722942
+dimwishlist:item=1366917989&perks=3796465595,3300816228,3927722942 //Tomorrow's Answer (Adept)
 
-//Tomorrow's Answer (Adept)
-dimwishlist:item=1366917989&perks=3796465595,3300816228,3927722942
 
-Royal Entry 
 dimwishlist:item=2448907086&perks=3796465595,3300816228,3927722942
 dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942
-dimwishlist:item=2448907086&perks=3796465595,951095735,3927722942
+dimwishlist:item=2448907086&perks=3796465595,951095735,3927722942 //Royal Entry 
 
-Code Duelo
+
 dimwishlist:item=2496242052&perks=3796465595,3300816228,4104185692
 dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942
 dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942
-dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942
+dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942 //Code Duelo
 
 Heretic
 dimwishlist:item=3067821200&perks=3796465595,2869569095,3927722942
