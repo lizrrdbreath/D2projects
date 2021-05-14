@@ -254,26 +254,27 @@ dimwishlist:item=681067419&perks=3250034553,106909392,247725512,3038247973,75809
 dimwishlist:item=681067419&perks=1840239774,106909392,247725512,3038247973,758092021
 
 Uzume RR4 (Adept)
-dimwishlist:item=852228780&perks=106909392,3400784728,1546637391
-dimwishlist:item=852228780&perks=106909392,3400784728,3038247973
+dimwishlist:item=852228780&perks=106909392,3230963543,1546637391 #notes: with big one spec this becomes a great boss/champ dps option during GM content -Lizrrdbreath
+dimwishlist:item=852228780&perks=106909392,3230963543,3038247973 #notes: Explosive Payload is one of my favourite weapon perks for high level content -Lizrrdbreath
+dimwishlist:item=852228780&perks=106909392,106909392,1546637391 #notes: with big one spec this becomes a great boss/champ dps option during GM content -Lizrrdbreath
+dimwishlist:item=852228780&perks=106909392,106909392,3038247973 #notes: Explosive Payload is one of my favourite weapon perks for high level content -Lizrrdbreath
 
 Ignition Code
-dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391
-dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,4104185692
-dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,4104185692
+dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391 #notes:needs testing but this is potentially a great champ/boss dps option for mid range-Lizrrdbreath
+dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,4104185692 #notes:needs testing but frenzy is always good and this is potentially a great dps option for mid range-Lizrrdbreath
 dimwishlist:item=304659313&perks=3032599245,2010801679,4104185692
 dimwishlist:item=304659313&perks=3032599245,2010801679,1546637391
 
 Corrective Measure
-dimwishlist:item=471518543&perks=1087426260,3418782618
+dimwishlist:item=471518543&perks=1087426260,3418782618 #notes:rewind rounds is an extremely interesting perk, expecially on a large magazine weapon like a machine gun. I'd go for appended mag over any other mag perk as it gives you more mileage out of rewind without lengthening your reload time -Lizrrdbreath
 
 Farewell
-dimwishlist:item=541188001&perks=1482024992,106909392,2846385770,4104185692
-dimwishlist:item=541188001&perks=3250034553,106909392,2846385770,4104185692
-dimwishlist:item=541188001&perks=4090651448,106909392,2846385770,4104185692
-dimwishlist:item=541188001&perks=4090651448,3142289711,2846385770,4104185692
-dimwishlist:item=541188001&perks=1482024992,3142289711,2846385770,4104185692
-dimwishlist:item=541188001&perks=3250034553,3142289711,2846385770,4104185692
+dimwishlist:item=541188001&perks=1482024992,106909392,2846385770,4104185692 #notes:bonus range and fast reload speed, great little gun when you need a sidearm -Lizrrdbreath
+dimwishlist:item=541188001&perks=3250034553,106909392,2846385770,4104185692 #notes:bonus range and fast reload speed, great little gun when you need a sidearm -Lizrrdbreath
+dimwishlist:item=541188001&perks=4090651448,106909392,2846385770,4104185692 #notes:bonus range and fast reload speed, great little gun when you need a sidearm -Lizrrdbreath
+dimwishlist:item=541188001&perks=4090651448,3142289711,2846385770,4104185692 #notes:bonus range and fast reload speed, great little gun when you need a sidearm -Lizrrdbreath
+dimwishlist:item=541188001&perks=1482024992,3142289711,2846385770,4104185692 #notes:bonus range and fast reload speed, great little gun when you need a sidearm -Lizrrdbreath
+dimwishlist:item=541188001&perks=3250034553,3142289711,2846385770,4104185692 #note:great little gun when you need a sidearm, I think this is my ideal roll -Lizrrdbreath
 
 Borrowed Time
-dimwishlist:item=875848769&perks=-2420895100
+dimwishlist:item=875848769&perks=-2420895100 #notes:extended mag on an smg is bad, please don't make your smg take any longer to reload than it already does -Lizrrdbreath
