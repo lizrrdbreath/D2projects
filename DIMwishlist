@@ -1,15 +1,16 @@
 title: Liz's wishlist
 description: A collection of PvE focussed rolls assembled by Lizrrdbreath. These rolls tend to prioritize perks that are usefull in GM content and raid encounters. Some rolls are added based on godrolls posted by respected community members, I will endeavour to note when this is the case. 
 
-//notes:source - Liz
-
-dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130 //Falling Guillotine
+//Swords
+//Falling Guillotine
+//notes:lizrrdbreath (PvE)
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130 
 
 //Rocket Launchers
 //Tomorrow's Answer
 dimwishlist:item=958384347&perks=3796465595,3300816228,3927722942
 
-Tomorrow's Answer (Adept)
+//Tomorrow's Answer (Adept)
 dimwishlist:item=1366917989&perks=3796465595,3300816228,3927722942
 
 Royal Entry 
